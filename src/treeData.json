@@ -1,0 +1,42 @@
+{
+  "name": "Mukesh Ambani",
+  "spouse": "Nita Ambani",
+  "image": "../assets/mukesh-ambani.jpg",
+  "spouseImage": "../assets/nitha.jpg",
+  "children": [
+    {
+      "name": "Akash Ambani",
+      "spouse": "Shloka Mehta",
+      "image": "../assets/akash.jpg",
+      "spouseImage": "../assets/shloka.jpg",
+      "children": [
+        {
+          "name": "Prithvi Ambani",
+          "image": "../assets/prithvi.jpeg"
+        }
+      ]
+    },
+    {
+      "name": "Isha Ambani",
+      "spouse": "Anand Piramal",
+      "image": "../assets/isha.jpg",
+      "spouseImage": "../assets/anat.jpg",
+      "children": [
+        {
+          "name": "Krishna Piramal",
+          "image": "../assets/"
+        },
+        {
+          "name": "Aadiya Piramal",
+          "image": "../assets/"
+        }
+      ]
+    },
+    {
+      "name": "Anant Ambani",
+      "spouse": "Radhika",
+      "image": "../assets/Anant-bod.jpg",
+      "spouseImage": "../assets/Radhika.jpg"
+    }
+  ]
+}
